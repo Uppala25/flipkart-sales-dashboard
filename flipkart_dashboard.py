@@ -35,7 +35,7 @@ conn = psycopg2.connect(
     port="5432"
 )
 
-st.title("📊 Flipkart Level 3 Dashboard")
+st.title("📊 Flipkart  Dashboard")
 
 # -------------------------
 # FILTERS
